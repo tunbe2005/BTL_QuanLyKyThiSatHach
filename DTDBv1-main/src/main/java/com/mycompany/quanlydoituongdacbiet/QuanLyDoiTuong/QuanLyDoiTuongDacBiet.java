@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.quanlydoituongdacbiet.QuanLyDoiTuong;
+package com.mycompany.quanlylythisathach.QuanLyKyThi;
 
-import com.mycompany.quanlydoituongdacbiet.controller.LoginController;
-import com.mycompany.quanlydoituongdacbiet.view.LoginView;
+import com.mycompany.quanlylythisathach.controller.LoginController;
+import com.mycompany.quanlylythisathach.view.LoginView;
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 
@@ -13,7 +13,7 @@ import javax.swing.JFrame;
  *
  * @author PC
  */
-public class QuanLyDoiTuongDacBiet 
+public class QuanLyKyThiSatHach
 {
     public static void main(String[] args) {
         EventQueue.invokeLater(new Runnable() {
