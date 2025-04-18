@@ -1,4 +1,4 @@
-package com.mycompany.quanlydoituongdacbiet.entity;
+package com.QLKT.quanlykithisathach.entity;
 
 public class User {
     private String userName;

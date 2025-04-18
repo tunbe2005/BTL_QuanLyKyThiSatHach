@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ThiSinhs>
+    <thiSinh>
+        <maThiSinh>TS001</maThiSinh>
+        <hoTen>Nguyễn Văn A</hoTen>
+        <tuoi>22</tuoi>
+    </thiSinh>
+    <thiSinh>
+        <maThiSinh>TS002</maThiSinh>
+        <hoTen>Trần Thị B</hoTen>
+        <tuoi>24</tuoi>
+    </thiSinh>
+    <thiSinh>
+        <maThiSinh>TS003</maThiSinh>
+        <hoTen>Lê Văn C</hoTen>
+        <tuoi>21</tuoi>
+    </thiSinh>
+    <thiSinh>
+        <maThiSinh>TS004</maThiSinh>
+        <hoTen>Phạm Thị D</hoTen>
+        <tuoi>23</tuoi>
+    </thiSinh>
+    <thiSinh>
+        <maThiSinh>TS005</maThiSinh>
+        <hoTen>Võ Minh E</hoTen>
+        <tuoi>25</tuoi>
+    </thiSinh>
+</ThiSinhs>
